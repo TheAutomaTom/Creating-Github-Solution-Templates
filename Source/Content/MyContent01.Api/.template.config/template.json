@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Tom Grossi",
+  "classifications": [
+    "WebAPI"
+  ],
+  "identity": "TheAutomaTom.CleanArch.Net8.ASP",
+  "name": "TheAutomaTom.CleanArch.Net8.ASP",
+  "shortName": "TheAutomaTomCleanArchNet8ASP",
+  "tags": {
+    "type": "project",
+    "language": "C#"
+  },
+  "sourceName": "MyContent01",
+  "generatorVersions": "[1.0.0.0-*)",
+  "description": "A project template for creating an ASP.NET Core application with the G# Clean Architecture implementation and standard utilities already wired up."
+
+}

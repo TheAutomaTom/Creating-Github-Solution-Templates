@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34804.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyContent01.Api", "Content\MyContent01.Api\MyContent01.Api.csproj", "{1DA452DA-F574-49DA-A131-8FD030D37C57}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template Files", "Template Files", "{04027143-16A2-4592-87B4-BF5D2D288376}"
+	ProjectSection(SolutionItems) = preProject
+		Content\MyContent01.Api\.template.config\template.json = Content\MyContent01.Api\.template.config\template.json
+		TheAutomaTom.CleanArch.Net8.ASP.nuspec = TheAutomaTom.CleanArch.Net8.ASP.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DA452DA-F574-49DA-A131-8FD030D37C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA452DA-F574-49DA-A131-8FD030D37C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA452DA-F574-49DA-A131-8FD030D37C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA452DA-F574-49DA-A131-8FD030D37C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2B8407-FEA7-46A3-A63E-EF75A3BDDE4E}
+	EndGlobalSection
+EndGlobal
